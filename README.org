@@ -2,3 +2,7 @@
 - 👀 I’m interested in Python, Flutter, Kotlin
 - 🌱 I’m currently working on Flutter, Kotlin
 - 📫 How to reach me https://srpallab.com
+- 2023 Learning goal
+  - Tailwind Advance
+  - URQL 
+  - AWS Advance
