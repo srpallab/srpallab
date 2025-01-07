@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @srpallab
-- 👀 I’m interested in Python, Flutter, Kotlin
-- 🌱 I’m currently working on Flutter, Kotlin
+- 👀 I’m interested in Python, Kotlin, Swift, JavaScript
+- 🌱 I’m currently working on Flutter, React Native, Odoo
 - 📫 How to reach me https://srpallab.com
-- 2023 Learning goal
-  - URQL 
-  - AWS Advance
-  - ChatGPT
-  - Cloudflare Workers / R2
+
